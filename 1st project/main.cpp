@@ -9,23 +9,6 @@
 #include "Globals.h"
 #include "Functions.h"
 using namespace std;
-/*
-phases:
-        0.login phase (done)
-        1.librarian options (add book , remove book , view books)
-        2.add book (done)
-        3.remove book (done)
-        4.edit book details (done)
-        5.view books (done)
-        6.customer options (borrow book , return book , rate book , search for book (by id or name) , view books , view borrowed books (done)
-        7.search for a book (done)
-        8. return book (done)
-        9.show borrowed books (done)
-        10. borrow book (done)
-        11. rate book (borrowed or not)
-
-*/
-
 int main() 
 {
     initialize_books();
